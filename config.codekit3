@@ -10,14 +10,14 @@
 "creatorBuild": "25444",
 "files": {
 	"\/css\/stylesheet.css": {
-		"aP": 0,
+		"aP": 1,
 		"bl": 0,
 		"ft": 16,
-		"ma": 0,
+		"ma": 1,
 		"oA": 2,
 		"oAP": "\/css\/stylesheet-min.css",
 		"oF": 0,
-		"oS": 0
+		"oS": 1
 		},
 	"\/css\/stylesheet.css.map": {
 		"ft": 8192,
@@ -76,8 +76,8 @@
 		"iS": 76433,
 		"oA": 0,
 		"oAP": "\/img\/bg-egg.jpg",
-		"oF": 0,
-		"opt": 0
+		"oF": 1,
+		"opt": 1
 		},
 	"\/img\/logo-egg.svg": {
 		"ft": 2097152,
@@ -1834,9 +1834,9 @@
 		"autoOutputPathReplace1": "",
 		"autoOutputPathReplace2": "",
 		"autoOutputPathStyle": 0,
-		"createSourceMap": 0,
+		"createSourceMap": 1,
 		"outputStyle": 1,
-		"shouldRunAutoprefixer": 0,
+		"shouldRunAutoprefixer": 1,
 		"shouldRunBless": 0
 		},
 	"languageDefaultsGIF": {
